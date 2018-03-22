@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Allow: /wp-content/uploads/
+Allow: /wp-content/plugins/
+Allow: /wp-content/themes/
+Disallow: /wp-content/uploads/2017/10/ONVIF_CyberSecurity_final_print.pdf
+Disallow: /article-download
+Crawl-delay: 10
